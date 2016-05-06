@@ -4,6 +4,7 @@ Resources for Vim
 ## English Resources
 - [A vim Tutorial and Primer](https://danielmiessler.com/study/vim/)
 - [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+- [How I boosted my Vim _by Vincent Driessen_](http://nvie.com/posts/how-i-boosted-my-vim/) | [vimrc](https://github.com/nvie/vimrc)
 
 ## 中文资源
 
